@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "919908a9365e7ccd",
+    "type": "split",
+    "children": [
+      {
+        "id": "a918b1ee5eb35c0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75b0ba51e1e0ccbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistemas Operativos/Clase 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "abbab10857597de2",
+    "type": "split",
+    "children": [
+      {
+        "id": "49c01079b9d4f96a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c411aaa12fdcedd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e878b70c001c09ca",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c21d3707b28b8f7e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "87a95e33940c4379",
+    "type": "split",
+    "children": [
+      {
+        "id": "da3aaaa8b46e6c0c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "218f806a8a44ee9e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sistemas Operativos/Clase 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0d1f7803fe200f66",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sistemas Operativos/Clase 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "912a0214f0238281",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6021968b36f46077",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sistemas Operativos/Clase 1.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "75b0ba51e1e0ccbb",
+  "lastOpenFiles": [
+    "README.md",
+    "Sistemas Operativos/Clase 1.md",
+    "Sistemas Operativos",
+    "Etica/Clase 1..md",
+    "Etica/Ética Profesional 2023.doc",
+    "Ética Profesional 2023.doc",
+    "Sistemas de Información II/Clase 1..md",
+    "Etica",
+    "Sistemas de Bases de Datos/Clase 1..md",
+    "Sistemas de Información II",
+    "Programación Avanzada/Primera clase.md",
+    "Sistemas de Bases de Datos",
+    "Programación Avanzada/Untitled.canvas",
+    "probabilidad y estadistica/Capitulo 1 Datos y estadísticas 1.md",
+    "Programación Avanzada",
+    "probabilidad y estadistica/Capitulo 2. Estadística descriptiva, Presentaciones tabulares y Gráficas.md",
+    "probabilidad y estadistica/Capitulo 3. Medidas numéricas.md",
+    "Clase 1.md",
+    "probabilidad y estadistica",
+    "Title.md",
+    "Untitled 1"
+  ]
+}
