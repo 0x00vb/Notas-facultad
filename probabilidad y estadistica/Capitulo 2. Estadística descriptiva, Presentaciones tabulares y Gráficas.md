@@ -29,9 +29,7 @@ Para definir las clases:
 
 ### Distribución de frecuencia relativa
 ### Distribución de frecuencia absoluta
-
 ### Gráfico de puntos
-
 
 ### Histogramas
 	Esta gráfica se hace con datos previamente resumidos mediante una distribución de frecuencia, de frecuencia relativa o de frecuencia porcentual. Un histograma se construye colocando la variable de interés en el eje horizontal y la frecuencia, la frecuencia relativa o la frecuencia porcentual en el eje vertical.
@@ -45,4 +43,27 @@ Para definir las clases:
 
 ### Diagrama de Tallo y hoja
 	Muestra en forma simultánea el orden jerárquico y la forma de un conjunto de datos.
-	
+
+
+## Resume  de datos de dos variables
+- Tabulación cruzada
+	- 1 var cualitativa y otra cuantitativa.
+	- Ambas cualitativas
+	- ...
+	Se puede combinar los datos de 2 o mas tabs cruzadas para obtener una resumida que muestre la relacion entre las 2 variables.
+
+### Graficos
+- Diagramas de dispercion -> Representacion grafica de la relacion entre 2 variables cuantitativas.
+	La linea de tendencia da una aproximacion a la relacion
+- Lineas de tendencias
+
+- Graficos de barra de lado a lado
+
+- Grafico de barras apiladas
+### Buenas practicas
+- Titulo clave
+- graficos simples, etiquetar ejes
+- Colores
+- Proporcionar referencias
+
+

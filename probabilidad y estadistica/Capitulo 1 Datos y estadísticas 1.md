@@ -3,13 +3,8 @@
 	
 	- Se refiere a datos numericos, tales como promedios, medianas, porcentajes, que ayudan a entender una gran variedad de negocios y situaciones economicas.
 	
-
 ### Datos
 	Son hechos/informaciones que se recogen, analizan e interpretan para su presentacion.
-
-
-
-
 
 ### Elementos 
 	Son las entidades de las cuales se obtienen los datos.
@@ -29,11 +24,6 @@
 	- Intervalo: Los datos tienen las caracteristicas de los datos ordinales y el intervalo de valores se expresa en terminos de unidad de medicion fija. (Siempre son numericos)
 
 	- Razón : Los datos tienen todas las propiedades de los datos de intervalo y la proporcion entre dos valores tiene significado.
-
-
-
-
-
 
 ### Tipos de datos
 	- Cualitativos: Comprenden etiquetas o nombres que se usan para identificar un atributo de cada elemento. Emplean la escala nominal o la ordinal y pueden ser numéricos o no.
@@ -56,24 +46,18 @@
 		- Observacionales.
 	- 
 	  
-
-
 ### Errores
 	- Tiempo requerido.
 	- Costo de adquisicion
 	- Errores de datos.
 
-
-
 ### Inferencia estadística
-	Consiste en utilizar los datos obtenidos de una muestra para hacer estimaciones y probar una hipotesis sobre la poblacion
+	Consiste en utilizar los datos obtenidos de una muestra para hacer estimaciones y probar una hipotesis sobre la poblacion.
 
 - Población: Conjunto de todos los elementos de interés en un estudio.
 	Recolección de datos de toda una población: Censo
 
 - Muestra: Subconjunto de Población.
 	Recolección de datos de una muestra: Encuesta muestral.
-
-
 
 ### Data Mining
