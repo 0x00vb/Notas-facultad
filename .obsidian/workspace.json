@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "probabilidad y estadistica/Capitulo 3. Medidas numéricas.md",
+                "file": "Sistemas de Bases de Datos/Clase 2..md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "87a95e33940c4379",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "probabilidad y estadistica/Capitulo 3. Medidas numéricas.md",
+                "file": "Sistemas de Bases de Datos/Clase 2..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "probabilidad y estadistica/Capitulo 3. Medidas numéricas.md",
+                "file": "Sistemas de Bases de Datos/Clase 2..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "probabilidad y estadistica/Capitulo 3. Medidas numéricas.md"
+                "file": "Sistemas de Bases de Datos/Clase 2..md"
               }
             }
           }
@@ -149,8 +148,10 @@
   },
   "active": "75b0ba51e1e0ccbb",
   "lastOpenFiles": [
-    "probabilidad y estadistica/Capitulo 2. Estadística descriptiva, Presentaciones tabulares y Gráficas.md",
+    "Sistemas de Bases de Datos/Clase 1..md",
+    "Sistemas de Bases de Datos/Clase 2..md",
     "probabilidad y estadistica/Capitulo 3. Medidas numéricas.md",
+    "probabilidad y estadistica/Capitulo 2. Estadística descriptiva, Presentaciones tabulares y Gráficas.md",
     "probabilidad y estadistica/Capitulo 1 Datos y estadísticas 1.md",
     "Sistemas Operativos/Clase 1.md",
     "README.md",
@@ -160,7 +161,6 @@
     "Ética Profesional 2023.doc",
     "Sistemas de Información II/Clase 1..md",
     "Etica",
-    "Sistemas de Bases de Datos/Clase 1..md",
     "Sistemas de Información II",
     "Programación Avanzada/Primera clase.md",
     "Sistemas de Bases de Datos",

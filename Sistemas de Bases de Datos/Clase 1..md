@@ -26,13 +26,7 @@ No utilizan tablas ni claves, sino que utilizan un conjunto de datos, y son muy 
 	- Problema de Integridad.
 	- Problemas de atomicidad.
 	- Acceso concurrente.
-
-
-
-
-
-
-
+	
 ## Que es una base de datos
 	Conjunto de datos almacenados entre los que existe relaciones lógicas y ha sido diseñado par satisfacer los requerimientos de información de un empresa u organización.
 
@@ -72,9 +66,6 @@ No utilizan tablas ni claves, sino que utilizan un conjunto de datos, y son muy 
 - DML (data manipulation language) -> Sentencias de manipulación de datos.
 - DDL (data definition language) -> Sentencias que manipulas la estructura. (Crear tablas, relaciones, indices)
 
-
-
-
 ### Administración de transacciones
 	Existe para poder soportar el acceso a un conjunto de datos como unica unidad de trabajo. Propiedades (ACID):
 	- Atomicidad. -> Los cambios aplicados en la transaccion se aplican todos o ninguno.
@@ -83,7 +74,6 @@ No utilizan tablas ni claves, sino que utilizan un conjunto de datos, y son muy 
 	- Durabilidad. -> Luego de ejecutar una transacción los atos debes ser persistentes, mas alla de un posible fallo.
 
 	Se denomina ACID complete al sistema que cumple con las 4 caracteristticas.
-
 
 
 Administrador de procesamiento -> Componente que provee una interfaz entre los datos almacenados de bajo nivel y los programas y aplicaciones del sistema.
@@ -106,8 +96,6 @@ Procesador de consultas -> Componente dentro del sistema de gestión, encargado 
 	- Económico.
 	- Equipamiento adicional.
 	- 
-
-
 
 ## Base de datos optima
 - Diseño adecuado en base a la necesidad. -> Normalizado, no redundante.
