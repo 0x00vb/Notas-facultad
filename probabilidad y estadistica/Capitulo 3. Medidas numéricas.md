@@ -2,7 +2,6 @@
 Nos ayuadan a indicar/buscar la posicion media, o como estan distribuidos los datos.
 
 - Media -> Promedio de mediciones. ==NO SE REDONDEA==
-
 	media muestral -> x =  $S(x)/n$
 	media poblacional -> $S(x)/N$
 
@@ -26,8 +25,7 @@ x = $a$
 
 - Percentiles -> valor por debajo del cual cae un porcentaje específico de los datos en un conjunto ordenado
 
-- Cuartiles -> 
-
+- Cuartiles -> ...
 
 ## Medidas de Variabilidad
 	Nos dicen que tan dispersos estan los datos entre si.
@@ -56,7 +54,6 @@ muestra -> x = $\sqrt{x}$
 - **Coeficiente de Variación**
 Indica que tan grade es la desviación estandar con respecto a la media.
 x = $((s/n) . 100)$ %
-
 
 # Datos agrupados
 Media de clase -> xi = $(Li - Ls) / 2$
@@ -88,9 +85,6 @@ Posicion cuartil k = $(k.n)/25$
  - Desvio
  Desvio(x) = $\sqrt{Var(x)}$
 
-
-
-
 ## Medidas numericas
 ### Formas de distribucion
 - Sesgo -> $n/((n-1)(n-2)) . \sum{}$
@@ -103,6 +97,7 @@ Posicion cuartil k = $(k.n)/25$
 	- Muy sesgado a la derecha -> Sesgo = positivo (mayor a 1)
 	- Muy sesgado a la izq.
 - Valor z -> numero de desviaciones estandar que xi, se encuentra de la media
+	- Traslada la curva a la media central, que es igual a 0.
 		zi = $(xi-x)/s$
 		El valor z para cualquier observacion puede interpretarse como una medida de la posicion relativa de la observacion en un conjunto de datos 
 	- z < 0 -> observaciones con valor menor a la media
@@ -114,7 +109,7 @@ Posicion cuartil k = $(k.n)/25$
 		- 0.89 dentro de z = 3.
 		- 0.94 dentro de z = 4.
 - Regla empirica
-	Se usa para determinar el porcentaje de valores de datos que deben estar dentro de un numero especifico de desviaciones estandar de la media.
+		Se usa para determinar el porcentaje de valores de datos que deben estar dentro de un numero especifico de desviaciones estandar de la media.
 
 - Deteccion de observaciones atipicas
 	Un conjunto de datos puede tener una o mas observaciones con valores inusualmente grandes o pequeños.

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemas de Información II/Clase 2.md",
+                "file": "probabilidad y estadistica/Capitulo 3. Medidas numéricas.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "87a95e33940c4379",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemas de Información II/Clase 2.md",
+                "file": "probabilidad y estadistica/Capitulo 3. Medidas numéricas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemas de Información II/Clase 2.md",
+                "file": "probabilidad y estadistica/Capitulo 3. Medidas numéricas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemas de Información II/Clase 2.md"
+                "file": "probabilidad y estadistica/Capitulo 3. Medidas numéricas.md"
               }
             }
           }
@@ -147,18 +146,19 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "75b0ba51e1e0ccbb",
+  "active": "1c411aaa12fdcedd",
   "lastOpenFiles": [
-    "Screenshot from 2024-03-15 21-10-47.png",
+    "probabilidad y estadistica/Clase 3.md",
+    "probabilidad y estadistica/Capitulo 3. Medidas numéricas.md",
+    "probabilidad y estadistica/Capitulo 2. Estadística descriptiva, Presentaciones tabulares y Gráficas.md",
+    "probabilidad y estadistica/Capitulo 1 Datos y estadísticas 1.md",
     "Sistemas de Información II/Clase 2.md",
+    "Screenshot from 2024-03-15 21-10-47.png",
     "Screenshot from 2024-03-15 21-08-19.png",
     "Sistemas de Información II/Clase 1..md",
     "Sistemas Operativos/Clase 1.md",
     "Sistemas de Bases de Datos/Clase 2..md",
     "Sistemas de Bases de Datos/Clase 1..md",
-    "probabilidad y estadistica/Capitulo 3. Medidas numéricas.md",
-    "probabilidad y estadistica/Capitulo 2. Estadística descriptiva, Presentaciones tabulares y Gráficas.md",
-    "probabilidad y estadistica/Capitulo 1 Datos y estadísticas 1.md",
     "README.md",
     "Sistemas Operativos",
     "Etica/Clase 1..md",

@@ -29,8 +29,8 @@
 	- Cualitativos: Comprenden etiquetas o nombres que se usan para identificar un atributo de cada elemento. Emplean la escala nominal o la ordinal y pueden ser numéricos o no.
 
 	- Cuantitativos: Requieren valores numéricos que indiquen cuánto o cuántos. Se obtienen usando las escalas de medición de intervalo o de razón.
-		- Discretos: Miden cuanto.
-		- Continuos: Miden cuantos.
+		- Discretos: Miden cuanto. Numeros naturales (No hay decimales)
+		- Continuos: Miden cuantos. Numeros Reales (Medidas continuas ej, altura, peso, distancia)
 
 ##### Según como se obtienen
 	- Datos de seccion transversal: son los obtenidos en el mismo o aproximadamente el mismo momento (punto en el tiempo).
