@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a918b1ee5eb35c0e",
+        "id": "7646a51448b2dc96",
         "type": "tabs",
         "children": [
           {
-            "id": "75b0ba51e1e0ccbb",
+            "id": "6dee0abf9296077c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "probabilidad y estadistica/Capitulo 3. Medidas numéricas.md",
+                "file": "Sistemas de Bases de Datos/Clase 2..md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "87a95e33940c4379",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "probabilidad y estadistica/Capitulo 3. Medidas numéricas.md",
+                "file": "Sistemas de Bases de Datos/Clase 2..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "probabilidad y estadistica/Capitulo 3. Medidas numéricas.md",
+                "file": "Sistemas de Bases de Datos/Clase 2..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "probabilidad y estadistica/Capitulo 3. Medidas numéricas.md"
+                "file": "Sistemas de Bases de Datos/Clase 2..md"
               }
             }
           }
@@ -146,12 +147,14 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "1c411aaa12fdcedd",
+  "active": "6dee0abf9296077c",
   "lastOpenFiles": [
-    "probabilidad y estadistica/Clase 3.md",
-    "probabilidad y estadistica/Capitulo 3. Medidas numéricas.md",
-    "probabilidad y estadistica/Capitulo 2. Estadística descriptiva, Presentaciones tabulares y Gráficas.md",
+    "Programación Avanzada/Primera clase.md",
+    "Programación Avanzada/Unidad 2.md",
     "probabilidad y estadistica/Capitulo 1 Datos y estadísticas 1.md",
+    "probabilidad y estadistica/Capitulo 3. Medidas numéricas.md",
+    "probabilidad y estadistica/Clase 3.md",
+    "probabilidad y estadistica/Capitulo 2. Estadística descriptiva, Presentaciones tabulares y Gráficas.md",
     "Sistemas de Información II/Clase 2.md",
     "Screenshot from 2024-03-15 21-10-47.png",
     "Screenshot from 2024-03-15 21-08-19.png",
@@ -166,7 +169,6 @@
     "Ética Profesional 2023.doc",
     "Etica",
     "Sistemas de Información II",
-    "Programación Avanzada/Primera clase.md",
     "Sistemas de Bases de Datos",
     "Programación Avanzada/Untitled.canvas",
     "Programación Avanzada",
