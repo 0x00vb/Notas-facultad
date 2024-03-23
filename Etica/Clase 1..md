@@ -1,8 +1,6 @@
 ## Fechas
 1er Parcial: 1/Junio.
 
-
-
 ### Opinión
 	Aplicación de una idea 
 	- Subjetiva
@@ -60,5 +58,4 @@ Principios:
 ### Deontologia
 	Etica aplicada a la profesión.
 	
-
 
