@@ -121,7 +121,7 @@
             }
           },
           {
-            "id": "6021968b36f46077",
+            "id": "dffe81434a7606b9",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -129,12 +129,29 @@
                 "file": "Etica/Clase 3.md"
               }
             }
+          },
+          {
+            "id": "81b0914205bfb666",
+            "type": "leaf",
+            "state": {
+              "type": "code-execute-manage-executors",
+              "state": {}
+            }
+          },
+          {
+            "id": "e8f2960c3da70adf",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -144,29 +161,34 @@
       "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "cfbcb313abbfa955",
   "lastOpenFiles": [
-    "Etica/Clase 1..md",
+    "Etica/Clase 4.md",
     "Etica/Clase 3.md",
+    "Sistemas de Información II/Clase 4.md",
+    "Screenshot from 2024-03-15 21-08-19.png",
+    "probabilidad y estadistica/Capitulo 1 Datos y estadísticas 1.md",
+    "Etica/Clase 1..md",
+    "Sistemas de Bases de Datos/Clase 1..md",
+    "Sistemas de Bases de Datos/Clase 2..md",
+    "tst",
+    "Sistemas de Información II/Clase 3.md",
+    "Sistemas de Información II/Clase 1..md",
+    "Sistemas de Información II/Clase 2.md",
+    "Sistemas Operativos/Clase 1.md",
+    "README.md",
     "Programación Avanzada/Primera clase.md",
     "Sin título 1.md",
     "Sin título.md",
-    "Sistemas de Bases de Datos/Clase 2..md",
     "Programación Avanzada/Unidad 2.md",
-    "probabilidad y estadistica/Capitulo 1 Datos y estadísticas 1.md",
     "probabilidad y estadistica/Capitulo 3. Medidas numéricas.md",
     "probabilidad y estadistica/Clase 3.md",
     "probabilidad y estadistica/Capitulo 2. Estadística descriptiva, Presentaciones tabulares y Gráficas.md",
-    "Sistemas de Información II/Clase 2.md",
     "Screenshot from 2024-03-15 21-10-47.png",
-    "Screenshot from 2024-03-15 21-08-19.png",
-    "Sistemas de Información II/Clase 1..md",
-    "Sistemas Operativos/Clase 1.md",
-    "Sistemas de Bases de Datos/Clase 1..md",
-    "README.md",
     "Sistemas Operativos",
     "Etica/Ética Profesional 2023.doc",
     "Ética Profesional 2023.doc",

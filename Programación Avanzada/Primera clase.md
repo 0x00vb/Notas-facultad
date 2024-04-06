@@ -38,3 +38,22 @@ Debe incluir al menos un método abstracto de la siguiente forma:
 - Ocupa un único espacio de memoria.
 - Comparte el valor en todas sus instancias de cualquier clase.
 Se accede: `NombreClase.setStaticAtrib()`.
+
+
+
+
+```python
+def hello(name):
+	print("Hello", name)
+
+if __name__ == "__main__":
+	hello("Eve")
+
+```
+
+
+```c
+#include <stdio.h>
+
+printf("Hello, World!");
+```

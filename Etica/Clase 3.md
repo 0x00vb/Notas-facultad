@@ -31,7 +31,7 @@ Contexto:
 - Tomas de Aquino, se hizo Sacerdote del Convento de los Dominicos (En contra de su Familia).
 
 <u>Ideas:</u>
-- Primero en retomar a Aristoteles. -> Cristianiza sus ideas.
+- Primero en **retomar a Aristoteles**. -> Cristianiza sus ideas.
 	- Todos los seres humanos son **Buenos y Libres**. (Iguales)
 	- Obrar Bien -> Obrar de acuerdo a la Ley Natural. (_Todos_ pueden obrar bien)
 	  Es el Amor al Projimo. Todos debemos obrar bien.
@@ -46,7 +46,7 @@ Contexto:
 - Prusia.
 - Pietismo. -> Como el ser humano fur condenado por el pecado original, todo lo que hace es pecado. El unico medio por el que soy salvado es la **Pena**.
 <u>Ideas:</u>
-- Giro copernicano.
+- Giro copernicano. -> La realidad se empieza a considerar subjetiva.
 - Subjetivismo.
 - "Lo real, es lo que contruye la mente" -> C/uno contruye su realidad.
 - Categorias Absolutas:
@@ -72,6 +72,7 @@ Contexto:
 - Estado -> Controlar que se cumplan las libertades.
 - Propiedad privada. -> Caracter absoluto.
 
+---
 ## Karl Marx (Siglo XIX d.c)
 Contexto:
 - Prusia.
@@ -88,4 +89,3 @@ Contexto:
 - Principio de Plusvalia.
 - Comunidad.
 - Imponer la Ideologia, aun con "Violencia".
-- 
