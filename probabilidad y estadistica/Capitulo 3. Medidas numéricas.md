@@ -5,6 +5,8 @@ Nos ayuadan a indicar/buscar la posicion media, o como estan distribuidos los da
 	media muestral -> x =  $S(x)/n$
 	media poblacional -> $S(x)/N$
 
+	Media aritmetica: x = S(xi.fi)/n
+
 - Media ponderada -> Calcula la media dando una importancia relativa.
 	x = $s(w,x)/E(w)$
 		w = peso

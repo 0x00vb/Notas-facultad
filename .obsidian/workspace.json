@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Etica/Clase 4.md",
+                "file": "probabilidad y estadistica/Capitulo 3. Medidas numéricas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "edfe56f602e910b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "probabilidad y estadistica/Capitulo 2. Estadística descriptiva, Presentaciones tabulares y Gráficas.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Etica/Clase 4.md",
+                "file": "probabilidad y estadistica/Capitulo 3. Medidas numéricas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Etica/Clase 4.md",
+                "file": "probabilidad y estadistica/Capitulo 3. Medidas numéricas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Etica/Clase 4.md"
+                "file": "probabilidad y estadistica/Capitulo 3. Medidas numéricas.md"
               }
             }
           },
@@ -167,11 +179,15 @@
   },
   "active": "cfbcb313abbfa955",
   "lastOpenFiles": [
-    "Etica/Clase 3.md",
+    "probabilidad y estadistica/Capitulo 2. Estadística descriptiva, Presentaciones tabulares y Gráficas.md",
+    "probabilidad y estadistica/Capitulo 3. Medidas numéricas.md",
+    "probabilidad y estadistica/Clase 3.md",
+    "probabilidad y estadistica/Capitulo 1 Datos y estadísticas 1.md",
+    "Programación Avanzada/Primera clase.md",
     "Etica/Clase 4.md",
+    "Etica/Clase 3.md",
     "Sistemas de Información II/Clase 4.md",
     "Screenshot from 2024-03-15 21-08-19.png",
-    "probabilidad y estadistica/Capitulo 1 Datos y estadísticas 1.md",
     "Etica/Clase 1..md",
     "Sistemas de Bases de Datos/Clase 1..md",
     "Sistemas de Bases de Datos/Clase 2..md",
@@ -181,13 +197,9 @@
     "Sistemas de Información II/Clase 2.md",
     "Sistemas Operativos/Clase 1.md",
     "README.md",
-    "Programación Avanzada/Primera clase.md",
     "Sin título 1.md",
     "Sin título.md",
     "Programación Avanzada/Unidad 2.md",
-    "probabilidad y estadistica/Capitulo 3. Medidas numéricas.md",
-    "probabilidad y estadistica/Clase 3.md",
-    "probabilidad y estadistica/Capitulo 2. Estadística descriptiva, Presentaciones tabulares y Gráficas.md",
     "Screenshot from 2024-03-15 21-10-47.png",
     "Sistemas Operativos",
     "Etica/Ética Profesional 2023.doc",
