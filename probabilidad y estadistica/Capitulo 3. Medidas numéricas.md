@@ -55,7 +55,7 @@ muestra -> x = $\sqrt{x}$
 
 - **Coeficiente de Variación**
 Indica que tan grade es la desviación estandar con respecto a la media.
-x = $((s/n) . 100)$ %
+x = $((desvio/media) . 100)$ %
 
 # Datos agrupados
 Media de clase -> xi = $(Li - Ls) / 2$

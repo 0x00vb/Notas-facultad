@@ -18,8 +18,7 @@
 ### Gráfica de torta
 	Proporciona otra grafica para presentar distribuciones de frecuencia relativa y de frecuencia porcentual de datos cualitativos.
 	Frec. relativa x 360 = Grados que consume un dato.
-
-
+		
 ## Resúmenes de datos cuantitativos
 ### Distribución de frecuencia
 Para definir las clases:
