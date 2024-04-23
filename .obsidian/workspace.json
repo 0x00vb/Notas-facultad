@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "37195dfb8ab6bbc9",
+        "id": "e29410494385194e",
         "type": "tabs",
         "children": [
           {
-            "id": "a8b5f17ff6180279",
+            "id": "a6c13c52ffb26970",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemas de Información II/Clase 5.md",
+                "file": "probabilidad y estadistica/Clase 5.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "87a95e33940c4379",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemas de Información II/Clase 5.md",
+                "file": "probabilidad y estadistica/Clase 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemas de Información II/Clase 5.md",
+                "file": "probabilidad y estadistica/Clase 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemas de Información II/Clase 5.md"
+                "file": "probabilidad y estadistica/Clase 5.md"
               }
             }
           },
@@ -162,12 +161,19 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a8b5f17ff6180279",
+  "active": "a6c13c52ffb26970",
   "lastOpenFiles": [
+    "Etica/Clase 6.md",
+    "probabilidad y estadistica/Clase 5.md",
     "Sistemas de Información II/Clase 4.md",
+    "Excalidraw/Drawing 2024-04-20 08.48.46.excalidraw.md",
+    "Excalidraw",
+    "Etica/Clase 5.md",
+    "Etica/Clase 4.md",
     "Sistemas de Información II/Clase 5.md",
     "Sistemas de Información II/Clase 3.md",
     "Sistemas de Información II/Clase 2.md",
@@ -178,7 +184,6 @@
     "probabilidad y estadistica/Clase 3.md",
     "Programación Avanzada/Manejo de Archivos.md",
     "Programación Avanzada/Primera clase.md",
-    "Etica/Clase 4.md",
     "Etica/Clase 3.md",
     "Screenshot from 2024-03-15 21-08-19.png",
     "Etica/Clase 1..md",
@@ -200,8 +205,6 @@
     "Programación Avanzada/Untitled.canvas",
     "Programación Avanzada",
     "Clase 1.md",
-    "probabilidad y estadistica",
-    "Title.md",
-    "Untitled 1"
+    "probabilidad y estadistica"
   ]
 }
