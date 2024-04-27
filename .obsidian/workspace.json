@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemas de Bases de Datos/Clase 2..md",
+                "file": "Sistemas de Bases de Datos/Clase 6?.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "87a95e33940c4379",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemas de Bases de Datos/Clase 2..md",
+                "file": "Sistemas de Bases de Datos/Clase 6?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemas de Bases de Datos/Clase 2..md",
+                "file": "Sistemas de Bases de Datos/Clase 6?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemas de Bases de Datos/Clase 2..md"
+                "file": "Sistemas de Bases de Datos/Clase 6?.md"
               }
             }
           },
@@ -167,6 +168,8 @@
   },
   "active": "a6c13c52ffb26970",
   "lastOpenFiles": [
+    "Sistemas de Bases de Datos/Clase 2..md",
+    "Sistemas de Bases de Datos/Clase 6?.md",
     "probabilidad y estadistica/Clase 5.md",
     "Etica/Clase 6.md",
     "Sistemas de Información II/Clase 4.md",
@@ -188,7 +191,6 @@
     "Screenshot from 2024-03-15 21-08-19.png",
     "Etica/Clase 1..md",
     "Sistemas de Bases de Datos/Clase 1..md",
-    "Sistemas de Bases de Datos/Clase 2..md",
     "tst",
     "Sistemas Operativos/Clase 1.md",
     "README.md",
@@ -204,7 +206,6 @@
     "Sistemas de Bases de Datos",
     "Programación Avanzada/Untitled.canvas",
     "Programación Avanzada",
-    "Clase 1.md",
     "probabilidad y estadistica"
   ]
 }
