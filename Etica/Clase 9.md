@@ -35,6 +35,22 @@ Clasificacion:
 	
 - Cardinales -> Guian a obrar moralmente bien.
 	- Prudencia -> intelectual. Tener conocimiento trascendente para entender como obrar.
-	- J
-	- F
-	- T
+	- Justicia -> Voluntad. Dar a cada persona lo que se debe y se merece.
+	- Fortaleza -> Irascible.
+	- Templanza -> Moderar
+
+Adquisición:
+- Infusas
+- Adquiridad -> Conocimiento, practica.
+
+Virtud -> equilibrio -> "Medio" 
+
+Relacion entre las virtudes -> No puede existir una sin la otra
+Prudencia -> 
+Justicia -> 
+Fortaleza -> Estructurar la vida virtuosa
+Templanza -> Permite agregar a la vada virtuosa, lo accesorio, lo que te va a mejorar
+
+<u>Vicio</u> -> habito operativo malo
+	Un hecho malo no me hace vicioso, sino la permanente repeticion de este.
+
