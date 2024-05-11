@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "e29410494385194e",
+        "id": "94c11f8565742d5c",
         "type": "tabs",
         "children": [
           {
-            "id": "a6c13c52ffb26970",
+            "id": "73dc37cc12e6e201",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemas de Bases de Datos/Clase 6?.md",
+                "file": "Etica/Clase 7.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8529812535733454",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Etica/Clase 9.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemas de Bases de Datos/Clase 6?.md",
+                "file": "Etica/Clase 9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemas de Bases de Datos/Clase 6?.md",
+                "file": "Etica/Clase 9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemas de Bases de Datos/Clase 6?.md"
+                "file": "Etica/Clase 9.md"
               }
             }
           },
@@ -166,22 +179,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a6c13c52ffb26970",
+  "active": "8529812535733454",
   "lastOpenFiles": [
-    "Sistemas de Bases de Datos/Clase 2..md",
-    "Sistemas de Bases de Datos/Clase 6?.md",
-    "probabilidad y estadistica/Clase 5.md",
+    "Etica/Clase 7.md",
+    "Etica/Clase 9.md",
+    "Etica/Clase 8.md",
     "Etica/Clase 6.md",
+    "Etica/Clase 5.md",
+    "Etica/Clase 4.md",
+    "probabilidad y estadistica/Clase 7.md",
+    "Sin título.md",
+    "probabilidad y estadistica/Capitulo 3. Medidas numéricas.md",
+    "Sistemas de Bases de Datos/Clase 6?.md",
+    "Sistemas de Bases de Datos/Clase 2..md",
+    "probabilidad y estadistica/Clase 5.md",
     "Sistemas de Información II/Clase 4.md",
     "Excalidraw/Drawing 2024-04-20 08.48.46.excalidraw.md",
     "Excalidraw",
-    "Etica/Clase 5.md",
-    "Etica/Clase 4.md",
     "Sistemas de Información II/Clase 5.md",
     "Sistemas de Información II/Clase 3.md",
     "Sistemas de Información II/Clase 2.md",
     "Sistemas de Información II/Clase 1..md",
-    "probabilidad y estadistica/Capitulo 3. Medidas numéricas.md",
     "probabilidad y estadistica/Capitulo 2. Estadística descriptiva, Presentaciones tabulares y Gráficas.md",
     "probabilidad y estadistica/Capitulo 1 Datos y estadísticas 1.md",
     "probabilidad y estadistica/Clase 3.md",
@@ -192,11 +210,6 @@
     "Etica/Clase 1..md",
     "Sistemas de Bases de Datos/Clase 1..md",
     "tst",
-    "Sistemas Operativos/Clase 1.md",
-    "README.md",
-    "Sin título 1.md",
-    "Sin título.md",
-    "Programación Avanzada/Unidad 2.md",
     "Screenshot from 2024-03-15 21-10-47.png",
     "Sistemas Operativos",
     "Etica/Ética Profesional 2023.doc",
