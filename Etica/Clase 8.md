@@ -30,10 +30,8 @@ Orden de razon que teniendo el bien comun es promulgado por autoridad competente
 		
 <u>Reglas de la moralidad:</u>
 
-	 
 # Conciencia
 ## (Yo psicologico)
-
 
 ## Nocion
 	Juicio de intelecto practico que fundamentandose en la ley moral, dictaminan la moraliadad de los actos humanos.
