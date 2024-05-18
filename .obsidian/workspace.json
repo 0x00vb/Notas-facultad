@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "73dc37cc12e6e201",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Etica/Clase 7.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8529812535733454",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Etica/Clase 9.md",
+                "file": "Etica/Clase 10.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Etica/Clase 9.md",
+                "file": "Etica/Clase 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Etica/Clase 9.md",
+                "file": "Etica/Clase 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Etica/Clase 9.md"
+                "file": "Etica/Clase 10.md"
               }
             }
           },
@@ -181,13 +168,14 @@
   },
   "active": "8529812535733454",
   "lastOpenFiles": [
-    "Etica/Clase 7.md",
     "Etica/Clase 9.md",
+    "Etica/Clase 10.md",
+    "probabilidad y estadistica/Clase 7.md",
+    "Etica/Clase 7.md",
     "Etica/Clase 8.md",
     "Etica/Clase 6.md",
     "Etica/Clase 5.md",
     "Etica/Clase 4.md",
-    "probabilidad y estadistica/Clase 7.md",
     "Sin título.md",
     "probabilidad y estadistica/Capitulo 3. Medidas numéricas.md",
     "Sistemas de Bases de Datos/Clase 6?.md",
@@ -208,7 +196,6 @@
     "Etica/Clase 3.md",
     "Screenshot from 2024-03-15 21-08-19.png",
     "Etica/Clase 1..md",
-    "Sistemas de Bases de Datos/Clase 1..md",
     "tst",
     "Screenshot from 2024-03-15 21-10-47.png",
     "Sistemas Operativos",

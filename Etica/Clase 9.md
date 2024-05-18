@@ -18,14 +18,12 @@ Clasificacion:
 - Conscupisientes
 - Irasientes
 - Encadenamiento de las pasiones. -> Apetitos conscupicibles e irascibles a la vez.
-	
 
 <u>Moralidad de la pasiones</u>
 1) Las pasiones no son buenas o malas.
 2) Dependen en su moralidad del objeto moral al que se dirigen.
 3) Deben ser gobernadas por la inteligencia y la voluntad.
 4) Deben ser moderadas por las virtudes.
-
 
 <u>Virtudes</u> -> Habito operativo bueno
 - Teologales
