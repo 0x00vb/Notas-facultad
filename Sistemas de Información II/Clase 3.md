@@ -1,1 +1,0 @@
-# Metodologia SCRUM actividad grupal

@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "8de9b011e47c3650",
+    "type": "split",
+    "children": [
+      {
+        "id": "036015c93cdc3c9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d3d59ee7f6565da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plataforma Integral para el Mantenimiento y Reparación de Vehículos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Plataforma Integral para el Mantenimiento y Reparación de Vehículos"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dd29f9a0b3d424c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f93c1dd6ad72b02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6653efc2a22d6401",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fbbd5264ad01a5f6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9a56102862f64197",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "61238e117d33923f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3f6dd5b16a5430e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7989a426590b6f40",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Plataforma de Gestión de Logística y Distribución para PYMES.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Plataforma de Gestión de Logística y Distribución para PYMES"
+            }
+          },
+          {
+            "id": "95f3ace78266a162",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Plataforma de Gestión de Logística y Distribución para PYMES.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Plataforma de Gestión de Logística y Distribución para PYMES"
+            }
+          },
+          {
+            "id": "8700b720ac37d8ab",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c6e885661321df2f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Plataforma de Gestión de Logística y Distribución para PYMES.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Plataforma de Gestión de Logística y Distribución para PYMES"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4d3d59ee7f6565da",
+  "lastOpenFiles": [
+    "ChatGPT Image Apr 7, 2025, 08_09_23 PM.png",
+    "Plataforma Integral para el Mantenimiento y Reparación de Vehículos.md",
+    "Entregas/proposito de sistema/SIP - 02 Propósito del Sistema(1).pdf",
+    "Entregas/SIP - 02 Propósito del Sistema(1).pdf",
+    "SIP - 02 Propósito del Sistema(1).pdf",
+    "Entregas/proposito de sistema/Propósito del Sistema.pdf",
+    "Entregas/proposito de sistema",
+    "Entregas/Propósito del Sistema.pdf",
+    "Entregas",
+    "Propósito del Sistema.pdf",
+    "Plataforma de Gestión de Logística y Distribución para PYMES.md",
+    "Sistema Integral de Ciberseguridad (SICS).md",
+    "Sistema Integral “TravelPro”.md",
+    "a.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "2025-03-19.md"
+  ]
+}
