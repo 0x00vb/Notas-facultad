@@ -4,19 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "94c11f8565742d5c",
+        "id": "416dd0fd72092f16",
         "type": "tabs",
         "children": [
           {
-            "id": "8529812535733454",
+            "id": "f611657151d899df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Etica/Clase 10.md",
+                "file": "seminario/Entregas/especificacion de requerimientos/PromptGPT.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "PromptGPT"
+            }
+          },
+          {
+            "id": "6202246b88c58d3a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "seminario/Entregas/especificacion de requerimientos/SIP - 03 Especificacion de Requerimientos.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "SIP - 03 Especificacion de Requerimientos"
             }
           }
         ]
@@ -38,8 +52,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +71,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,15 +81,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "87a95e33940c4379",
@@ -86,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Etica/Clase 10.md",
+                "file": "seminario/Plataforma Integral para el Mantenimiento y Reparación de Vehículos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +114,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Plataforma Integral para el Mantenimiento y Reparación de Vehículos"
             }
           },
           {
@@ -103,10 +125,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Etica/Clase 10.md",
+                "file": "seminario/Plataforma Integral para el Mantenimiento y Reparación de Vehículos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Plataforma Integral para el Mantenimiento y Reparación de Vehículos"
             }
           },
           {
@@ -116,8 +140,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -126,8 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Etica/Clase 10.md"
-              }
+                "file": "seminario/Plataforma Integral para el Mantenimiento y Reparación de Vehículos.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Plataforma Integral para el Mantenimiento y Reparación de Vehículos"
             }
           },
           {
@@ -135,7 +168,9 @@
             "type": "leaf",
             "state": {
               "type": "code-execute-manage-executors",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -143,7 +178,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -156,18 +193,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8529812535733454",
+  "active": "f611657151d899df",
   "lastOpenFiles": [
+    "seminario/Plataforma Integral para el Mantenimiento y Reparación de Vehículos.md",
+    "seminario/Entregas/especificacion de requerimientos/SIP - 03 Especificacion de Requerimientos.pdf",
+    "seminario/Entregas/especificacion de requerimientos/PromptGPT.md",
+    "seminario/Entregas/especificacion de requerimientos/Requsitos.md",
+    "seminario/Entregas/proposito de sistema/Propósito del Sistema.pdf",
+    "Pasted image 20250503193024.png",
+    "seminario/Sistema Integral “TravelPro”.md",
     "Etica/Clase 8.md",
     "Etica/Clase 9.md",
     "Etica/Clase 10.md",
@@ -190,12 +234,7 @@
     "Sistemas de Información II/Clase 1..md",
     "probabilidad y estadistica/Capitulo 2. Estadística descriptiva, Presentaciones tabulares y Gráficas.md",
     "probabilidad y estadistica/Capitulo 1 Datos y estadísticas 1.md",
-    "probabilidad y estadistica/Clase 3.md",
-    "Programación Avanzada/Manejo de Archivos.md",
-    "Programación Avanzada/Primera clase.md",
-    "Etica/Clase 3.md",
     "Screenshot from 2024-03-15 21-08-19.png",
-    "Etica/Clase 1..md",
     "tst",
     "Screenshot from 2024-03-15 21-10-47.png",
     "Sistemas Operativos",
@@ -204,8 +243,6 @@
     "Etica",
     "Sistemas de Información II",
     "Sistemas de Bases de Datos",
-    "Programación Avanzada/Untitled.canvas",
-    "Programación Avanzada",
-    "probabilidad y estadistica"
+    "Programación Avanzada/Untitled.canvas"
   ]
 }
